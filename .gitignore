@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# Certificates
+*.crt
+*.key
+*.csr
+*.srl
+
+# Environment Variables
+*.env
