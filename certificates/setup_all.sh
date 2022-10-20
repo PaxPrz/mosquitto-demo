@@ -10,3 +10,4 @@ cd ../client/device1
 ./certificate.sh
 cd ../device2
 ./certificate.sh
+cd ../..
